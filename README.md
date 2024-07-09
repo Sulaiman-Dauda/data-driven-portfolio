@@ -7,7 +7,12 @@
 
 This portfolio showcases my skills with collection of projects where I've applied data wrangling, data exploration, statistical analysis, data visualization, machine learning, data visualization, presentation skills, etc to derive insights and solve real-world problems. Each project demonstrates my proficiency in various technologies and tools such as R, Python, SQL, Excel, Tableau, Power BI, and more.
 
+<br>
+
 # Projects
+Explore the projects below to see how I have employed data-driven strategies to enhance decision-making, streamline processes, and achieve impactful outcomes across various domains. Click on the project titles to view details and code repositories, or use the links for code and presentations under each project.
+<br>
+<br>
 
 ## Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)
 _**Goal**_:- To analyze and visualize data on police use of force incidents in Dallas, Texas, to identify patterns and potential biases.
@@ -26,7 +31,7 @@ _**Presentation**_:- slides.pdf
 
 <br>
 
-## Exploring Biodiversity Trends Using Proportional Species Richness Data
+## Project 2 - Exploring Biodiversity Trends Using Proportional Species Richness Data
 
 _**Goal**_:- To analyze trends in biodiversity using proportional species richness data across different taxonomic groups and geographical locations.
 

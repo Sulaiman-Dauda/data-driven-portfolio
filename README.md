@@ -14,7 +14,7 @@ Explore the projects below to see how I have employed data-driven strategies to 
 <br>
 <br>
 
-## Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)
+[## Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%201%20-%20Analyzing%20Police%20Use%20of%20Force%20Incidents%20in%20Dallas%2C%20Texas%20(2016).Rmd)
 _**Goal**_:- To analyze and visualize data on police use of force incidents in Dallas, Texas, to identify patterns and potential biases.
 
 _**Description**_:- This project dives into a dataset from Dallas Police Department documenting incidents of police use of force in 2016. The analysis focuses on understanding the distribution of incidents by race, gender, days of the week, months, types of force used, and geographical locations. Advanced data visualization techniques such as bar plots, stacked bar plots, and geographical mapping were employed to visualize insights effectively.

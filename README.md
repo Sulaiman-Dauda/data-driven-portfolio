@@ -14,7 +14,8 @@ Explore the projects below to see how I have employed data-driven strategies to 
 <br>
 <br>
 
-[## Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%201%20-%20Analyzing%20Police%20Use%20of%20Force%20Incidents%20in%20Dallas%2C%20Texas%20(2016).Rmd)
+## [Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%201%20-%20Analyzing%20Police%20Use%20of%20Force%20Incidents%20in%20Dallas%2C%20Texas%20(2016).Rmd)
+
 _**Goal**_:- To analyze and visualize data on police use of force incidents in Dallas, Texas, to identify patterns and potential biases.
 
 _**Description**_:- This project dives into a dataset from Dallas Police Department documenting incidents of police use of force in 2016. The analysis focuses on understanding the distribution of incidents by race, gender, days of the week, months, types of force used, and geographical locations. Advanced data visualization techniques such as bar plots, stacked bar plots, and geographical mapping were employed to visualize insights effectively.
@@ -31,7 +32,7 @@ _**Presentation**_:- slides.pdf
 
 <br>
 
-## Project 2 - Exploring Biodiversity Trends Using Proportional Species Richness Data
+## [Project 2 - Exploring Biodiversity Trends Using Proportional Species Richness Data](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%202%20-%20Exploring%20Biodiversity%20Trends%20Using%20Proportional%20Species%20Richness%20Data.Rmd)
 
 _**Goal**_:- To analyze trends in biodiversity using proportional species richness data across different taxonomic groups and geographical locations.
 
@@ -43,13 +44,13 @@ _**Technology**_:- R, ggplot2, stats package.
 
 _**Results**_:- The analysis reveals significant correlations between certain taxonomic groups, with Bird and Macromoths showing the strongest positive correlation (0.83). Biodiversity trends indicate varied changes across taxonomic groups between 1970 and 2000, with notable increases observed in Vascular plants and Isopods. Regression analyses highlight predictors of biodiversity change, with ecological variables like Carabids and Vascular plants significantly influencing biodiversity metrics.
 
-_**Code**_:- MA334_Coursework_Data_Exploration.ipynb
+_**Code**_:- [Exploring Biodiversity Trends Using Proportional Species Richness.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%202%20-%20Exploring%20Biodiversity%20Trends%20Using%20Proportional%20Species%20Richness%20Data.Rmd)
 
 _**Presentation**_: 
 
 <br>
 
-## Project 3 - Analyzing TED Talks by Omar Ahmad and Jack Conte
+## [Project 3 - Analyzing TED Talks by Omar Ahmad and Jack Conte](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%203%20-%20Analyzing%20TED%20Talks%20by%20Omar%20Ahmad%20and%20Jack%20Conte.Rmd)
 
 _**Goal**_: To analyze TED Talks delivered by Omar Ahmad and Jack Conte, focusing on identifying their most frequently used words, comparing vocabularies, and assessing the sentiments expressed.
 
@@ -61,13 +62,13 @@ _**Technology**_: R, ggplot2, tidyverse, tidytext, dplyr.
 
 _**Results**_: The analysis reveals distinct word usage patterns between Omar Ahmad and Jack Conte. Both speakers use common words like "going" and "time," but Omar Ahmad emphasizes "letter," while Jack Conte discusses "dollars." Sentiment analysis indicates predominantly neutral and positive expressions in both speeches, underscoring their optimistic tones.
 
-_**Code**_: Analyzing TED Talks by Omar Ahmad and Jack Conte.Rmd
+_**Code**_: [Analyzing TED Talks by Omar Ahmad and Jack Conte.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%203%20-%20Analyzing%20TED%20Talks%20by%20Omar%20Ahmad%20and%20Jack%20Conte.Rmd)
 
 _**Presentation**_: 
 
 <br>
 
-## Project 4 - Analysis of Alzheimer’s Dataset
+## [Project 4 - Analysis of Alzheimer’s Dataset](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%204%20-%20Analysis%20of%20Alzheimer%E2%80%99s%20Dataset.Rmd)
 
 _**Goal**_: To investigate factors associated with Alzheimer’s disease using statistical analysis and machine learning techniques.
 
@@ -79,13 +80,13 @@ _**Technology**_: R, ggplot2, caret, brglm, pROC.
 
 _**Results**_: The analysis revealed that variables such as education level (EDUC) and clinical dementia rating (CDR) significantly impact Alzheimer’s diagnosis. The logistic regression model achieved perfect accuracy and AUC on the testing set. Feature selection identified EDUC, CDR, eTIV, and nWBV as key predictors for disease classification.
 
-_**Code**_: Alzheimer’s Dataset Analysis.Rmd
+_**Code**_: [Alzheimer’s Dataset Analysis.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%204%20-%20Analysis%20of%20Alzheimer%E2%80%99s%20Dataset.Rmd)
 
 _**Presentation**_: 
 
 <br>
 
-## Project 5 - Housing Price Prediction Model
+## [Project 5 - Housing Price Prediction Model](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%205%20-%20Housing%20Price%20Prediction%20Model.ipynb)
 
 _**Goal**_: To develop a robust machine learning model that predicts housing prices based on various features.
 
@@ -97,6 +98,6 @@ _**Technology**_: Python, pandas, scikit-learn, seaborn, matplotlib.
 
 _**Results**_: Developed a RandomForestRegressor model with an R-squared of 0.7424, indicating 74.24% variance explained in housing prices. Identified key predictors such as area, bathrooms, and parking.
 
-_**Code**_: Housing Price Prediction Model.ipynb
+_**Code**_: [Housing Price Prediction Model.ipynb](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%205%20-%20Housing%20Price%20Prediction%20Model.ipynb)
 
 _**Presentation**_: 

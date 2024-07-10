@@ -26,7 +26,7 @@ _**Technology**_:- R, ggplot2, Leaflet for R.
 
 _**Results**_:- The analysis uncovered disparities in incidents involving different racial and gender groups, highlighted peak incident days and months, and identified predominant types of force used by officers. Insights gleaned from this project underscore the importance of addressing potential biases in policing practices and advocating for data-driven reforms.
 
-_**Code**_:- [Analyzing Police Use of Force Incidents in Dallas.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%201%20-%20Analyzing%20Police%20Use%20of%20Force%20Incidents%20in%20Dallas%2C%20Texas%20(2016).Rmd)
+_**Code**_:- [Analyzing Police Use of Force Incidents in Dallas.R](https://github.com/Sulaiman-Dauda/Analyzing-Police-Use-of-Force-Incidents-in-Dallas-Texas/blob/main/code.R)
 
 _**Presentation**_:- [Medium](https://medium.com/@abiodauda/analyzing-police-use-of-force-incidents-in-dallas-texas-9765ff5a1f56)
 
@@ -44,9 +44,9 @@ _**Technology**_:- R, ggplot2, stats package.
 
 _**Results**_:- The analysis reveals significant correlations between certain taxonomic groups, with Bird and Macromoths showing the strongest positive correlation (0.83). Biodiversity trends indicate varied changes across taxonomic groups between 1970 and 2000, with notable increases observed in Vascular plants and Isopods. Regression analyses highlight predictors of biodiversity change, with ecological variables like Carabids and Vascular plants significantly influencing biodiversity metrics.
 
-_**Code**_:- [Exploring Biodiversity Trends Using Proportional Species Richness.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%202%20-%20Exploring%20Biodiversity%20Trends%20Using%20Proportional%20Species%20Richness%20Data.Rmd)
+_**Code**_:- [Exploring Biodiversity Trends Using Proportional Species Richness.R](https://github.com/Sulaiman-Dauda/Exploring-Biodiversity-Trends-Using-Proportional-Species-Richness/blob/main/code.R)
 
-_**Presentation**_: 
+_**Presentation**_:- [PDF](https://github.com/Sulaiman-Dauda/Exploring-Biodiversity-Trends-Using-Proportional-Species-Richness/blob/main/Presentation.pdf)
 
 <br>
 

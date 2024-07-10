@@ -1,5 +1,5 @@
 # Data Driven Portfolio
-👋 Hi there! I'm Sulaiman, a seasoned Data Analyst with a passion for leveraging technology to drive impactful insights. Currently based remotely at Bluechip Technologies Limited, I specialize in data wrangling and analysis using Python (Pandas, NumPy), R and SQL, coupled with advanced visualization tools like Power BI and Tableau.
+👋 Hi there! I'm Sulaiman, a seasoned Data Analyst with a passion for leveraging technology to drive impactful insights. Currently working at Bluechip Technologies Limited, I specialize in data wrangling and analysis using Python (Pandas, NumPy), R and SQL, coupled with advanced visualization tools like Power BI and Tableau.
 
 🌐 My professional journey spans across diverse sectors including healthcare and banking, where I've applied machine learning algorithms (Scikit-Learn, TensorFlow) to enhance operations and decision-making. My academic background includes a Distinction in M.Sc. Applied Data Science from the University of Essex, focusing on predictive analytics and machine learning interpretability.
 

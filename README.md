@@ -100,4 +100,4 @@ _**Results**_: Developed a RandomForestRegressor model with an R-squared of 0.74
 
 _**Code**_: [Housing Price Prediction Model.ipynb](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%205%20-%20Housing%20Price%20Prediction%20Model.ipynb)
 
-_**Presentation**_: 
+_**Presentation**_: [Medium](https://medium.com/@abiodauda/housing-price-prediction-model-with-machine-learning-b9e015051573)

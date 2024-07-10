@@ -62,7 +62,7 @@ _**Technology**_: R, ggplot2, tidyverse, tidytext, dplyr.
 
 _**Results**_: The analysis reveals distinct word usage patterns between Omar Ahmad and Jack Conte. Both speakers use common words like "going" and "time," but Omar Ahmad emphasizes "letter," while Jack Conte discusses "dollars." Sentiment analysis indicates predominantly neutral and positive expressions in both speeches, underscoring their optimistic tones.
 
-_**Code**_: [Analyzing TED Talks by Omar Ahmad and Jack Conte.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%203%20-%20Analyzing%20TED%20Talks%20by%20Omar%20Ahmad%20and%20Jack%20Conte.Rmd)
+_**Code**_: [Analyzing TED Talks by Omar Ahmad and Jack Conte.R](https://github.com/Sulaiman-Dauda/Analyzing-TED-Talks-by-Omar-Ahmad-and-Jack-Conte/blob/main/code.R)
 
 _**Presentation**_: 
 
@@ -80,9 +80,9 @@ _**Technology**_: R, ggplot2, caret, brglm, pROC.
 
 _**Results**_: The analysis revealed that variables such as education level (EDUC) and clinical dementia rating (CDR) significantly impact Alzheimer’s diagnosis. The logistic regression model achieved perfect accuracy and AUC on the testing set. Feature selection identified EDUC, CDR, eTIV, and nWBV as key predictors for disease classification.
 
-_**Code**_: [Alzheimer’s Dataset Analysis.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%204%20-%20Analysis%20of%20Alzheimer%E2%80%99s%20Dataset.Rmd)
+_**Code**_: [Alzheimer’s Dataset Analysis.R](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset/blob/main/code.R)
 
-_**Presentation**_: [PDF](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset/blob/main/Presentation.pdf)
+_**Presentation**_:- [PDF](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset/blob/main/Presentation.pdf)
 
 <br>
 
@@ -98,6 +98,6 @@ _**Technology**_: Python, pandas, scikit-learn, seaborn, matplotlib.
 
 _**Results**_: Developed a RandomForestRegressor model with an R-squared of 0.7424, indicating 74.24% variance explained in housing prices. Identified key predictors such as area, bathrooms, and parking.
 
-_**Code**_: [Housing Price Prediction Model.ipynb](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%205%20-%20Housing%20Price%20Prediction%20Model.ipynb)
+_**Code**_: [Housing Price Prediction Model.ipynb](https://github.com/Sulaiman-Dauda/Housing-Price-Prediction-Model/blob/main/code.ipynb)
 
 _**Presentation**_: [Medium](https://medium.com/@abiodauda/housing-price-prediction-model-with-machine-learning-b9e015051573)

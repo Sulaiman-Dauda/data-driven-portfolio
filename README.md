@@ -82,7 +82,7 @@ _**Results**_: The analysis revealed that variables such as education level (EDU
 
 _**Code**_: [Alzheimer’s Dataset Analysis.R](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%204%20-%20Analysis%20of%20Alzheimer%E2%80%99s%20Dataset.Rmd)
 
-_**Presentation**_: 
+_**Presentation**_: [PDF](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset/blob/main/Presentation.pdf)
 
 <br>
 

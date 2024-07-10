@@ -14,7 +14,7 @@ Explore the projects below to see how I have employed data-driven strategies to 
 <br>
 <br>
 
-## [Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%201%20-%20Analyzing%20Police%20Use%20of%20Force%20Incidents%20in%20Dallas%2C%20Texas%20(2016).Rmd)
+## [Project 1 - Analyzing Police Use of Force Incidents in Dallas, Texas (2016)](https://github.com/Sulaiman-Dauda/Analyzing-Police-Use-of-Force-Incidents-in-Dallas-Texas)
 
 _**Goal**_:- To analyze and visualize data on police use of force incidents in Dallas, Texas, to identify patterns and potential biases.
 
@@ -32,7 +32,7 @@ _**Presentation**_:- [Medium](https://medium.com/@abiodauda/analyzing-police-use
 
 <br>
 
-## [Project 2 - Exploring Biodiversity Trends Using Proportional Species Richness Data](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%202%20-%20Exploring%20Biodiversity%20Trends%20Using%20Proportional%20Species%20Richness%20Data.Rmd)
+## [Project 2 - Exploring Biodiversity Trends Using Proportional Species Richness Data](https://github.com/Sulaiman-Dauda/Exploring-Biodiversity-Trends-Using-Proportional-Species-Richness)
 
 _**Goal**_:- To analyze trends in biodiversity using proportional species richness data across different taxonomic groups and geographical locations.
 
@@ -50,7 +50,7 @@ _**Presentation**_:
 
 <br>
 
-## [Project 3 - Analyzing TED Talks by Omar Ahmad and Jack Conte](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%203%20-%20Analyzing%20TED%20Talks%20by%20Omar%20Ahmad%20and%20Jack%20Conte.Rmd)
+## [Project 3 - Analyzing TED Talks by Omar Ahmad and Jack Conte](https://github.com/Sulaiman-Dauda/Analyzing-TED-Talks-by-Omar-Ahmad-and-Jack-Conte)
 
 _**Goal**_: To analyze TED Talks delivered by Omar Ahmad and Jack Conte, focusing on identifying their most frequently used words, comparing vocabularies, and assessing the sentiments expressed.
 
@@ -68,7 +68,7 @@ _**Presentation**_:
 
 <br>
 
-## [Project 4 - Analysis of Alzheimer’s Dataset](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%204%20-%20Analysis%20of%20Alzheimer%E2%80%99s%20Dataset.Rmd)
+## [Project 4 - Analysis of Alzheimer’s Dataset](https://github.com/Sulaiman-Dauda/Analysis-of-Alzheimer-s-Dataset)
 
 _**Goal**_: To investigate factors associated with Alzheimer’s disease using statistical analysis and machine learning techniques.
 
@@ -86,7 +86,7 @@ _**Presentation**_:
 
 <br>
 
-## [Project 5 - Housing Price Prediction Model](https://github.com/Sulaiman-Dauda/portfolio-projects/blob/main/Project%205%20-%20Housing%20Price%20Prediction%20Model.ipynb)
+## [Project 5 - Housing Price Prediction Model](https://github.com/Sulaiman-Dauda/Housing-Price-Prediction-Model)
 
 _**Goal**_: To develop a robust machine learning model that predicts housing prices based on various features.
 
